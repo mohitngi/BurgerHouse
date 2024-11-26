@@ -173,7 +173,7 @@ nav {
   font-weight: 400;
   font-family: var(--header-font-2);
   color: var(--primary-color);
-  border: 2px dashed var(--primary-color);
+/*   border: 2px dashed var(--primary-color); */
   text-align: center;
 }
 
